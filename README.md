@@ -12,8 +12,10 @@ América Microsoft Imagine Cup 2023 Finalist
 Project: BLINDL-e (text to braille translator) 
 https://tvpocos.com.br/imagine-cup-finalistas-da-puc-minas-desenvolvem-projetos-com-foco-na-acessibilidade/ 
 
+
 Goal
-Enter as a jr. in a dev workplace. 
+Learn AI models and learn machine learning. I always liked to understand how things got created.
+
 
 Experience 
 TI Technician | Seap Consultoria e Concursos Públicos
